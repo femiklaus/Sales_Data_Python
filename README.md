@@ -41,9 +41,3 @@
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-For questions or support, please reach out to [your-email@example.com](mailto:your-email@example.com).
